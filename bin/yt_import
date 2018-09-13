@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require "youtrack_timetracking_importer"
+
